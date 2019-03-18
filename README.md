@@ -1,6 +1,6 @@
 ### Ohmmmm — Meditation for kids app
 
-## [See the deployed version here](https://ohmmmm.netlify.com/) or on mobile: !
+## [See the deployed version here](https://ohmmmm.netlify.com/) or on mobile: ![](https://github.com/leoniepeters/ohmmmm/blob/dev/screenshots/QR-Ohmmmm.png)
 ![Logo](https://github.com/leoniepeters/ohmmmm/blob/dev/screenshots/ohmmmm.png)
 
 Meditation and kids might not sound like a match made in heaven. Kids between the ages of ten to fourteen lead busy and active lives, it’s a time of fast transition and emotional & cognitive development. Where can they get some rest and some quiet time with all of that buzzing? Ohmmmm is a game that makes meditation fun and engages kids to slow down and relax.
