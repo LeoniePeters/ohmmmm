@@ -43,3 +43,6 @@ Development Team:<br />
 Leonie Peters: https://github.com/LeoniePeters<br />
 Rogier Verkaik: https://github.com/rogierv-codaisseur<br />
 Dusty Wood Saunders: https://github.com/dustywsaunders
+
+## Legal
+This app remains the work and property of Aliénor de Haan. Please contact her for rights to use any of the code and/or media.
